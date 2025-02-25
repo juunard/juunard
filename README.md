@@ -5,7 +5,7 @@
 
 ---
 - 🔭 I’m currently working on **self-love, ikigai, college,** and **backyard automation projects**
-- 🌱 I’m currently learning on some programming languages and prototyping
+- 🌱 I’m currently learning on some programming languages, prototyping and visual editing
 - 👌 Pronouns: ***von, juunard, bungkeng*** 
 
 ---
