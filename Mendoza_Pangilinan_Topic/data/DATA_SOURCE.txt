@@ -1,8 +1,0 @@
-Fabrication Process,Teams
-3D Printing,5
-CNC Laser Cutter,3
-Welding,3
-Drill Press,2
-CNC Milling,2
-CNC Lathe,2
-Metal Casting,1
